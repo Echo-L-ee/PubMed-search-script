@@ -1,4 +1,4 @@
-# PubMed-search-script
+# PubMed-search-script for Hallmarks
 Python script to query PubMed
 
 ## Goal
