@@ -1,7 +1,7 @@
 # PubMed-search-script
 Implement Python script to query PubMed
 
-# GlyNAC ↔ Genomic Instability (PubMed Search)
+## GlyNAC ↔ Genomic Instability (PubMed Search)
 Python script that queries PubMed for **GlyNAC** and **genomic instability** papers and saves a CSV (PMID, title, authors, journal, DOI, abstract, year).
 
 ## Install
@@ -9,8 +9,8 @@ pip install biopython pandas python-dotenv
 
 ## Setup
 Create `.env`:
-EMAIL=apriloctober17@hotmail.com
-NCBI_API_KEY=48035e8fafb81cfbe03a235c56c14ecc3909
+EMAIL=your_email@example.com
+NCBI_API_KEY=your_ncbi_api_key
 
 ## Run
 python pubmed_search.py
