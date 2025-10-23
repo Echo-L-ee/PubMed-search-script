@@ -1,5 +1,5 @@
-# PubMed-search-script for Hallmarks
-Python script to query PubMed
+# PubMed-search-script for hallmarks
+
 
 ## Goal
 Searches PubMed for papers supporting that GlyNAC rescues genomic instability, and saves a CSV (PMID, title, authors, journal, DOI, abstract, year).
