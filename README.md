@@ -1,7 +1,7 @@
 # PubMed-search-script
 Python script to query PubMed
 
-## GlyNAC ↔ Genomic Instability (PubMed Search)
+## Goal
 Searches PubMed for papers supporting the claim that GlyNAC rescues genomic instability, and saves a CSV (PMID, title, authors, journal, DOI, abstract, year).
 
 ## Install(VS Code + venv)
