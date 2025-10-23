@@ -1,5 +1,5 @@
 # PubMed-search-script
-Implement Python script to query PubMed
+Python script to query PubMed
 
 ## GlyNAC ↔ Genomic Instability (PubMed Search)
 Python script that queries PubMed for **GlyNAC** and **genomic instability** papers and saves a CSV (PMID, title, authors, journal, DOI, abstract, year).
