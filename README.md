@@ -1,4 +1,4 @@
-# PubMed-search-script for hallmarks
+# PubMed search for hallmarks
 
 
 ## Goal
