@@ -9,8 +9,8 @@ pip install biopython pandas python-dotenv
 
 ## Setup
 Create `.env`:
-EMAIL=your_email@example.com
-NCBI_API_KEY=your_ncbi_api_key
+EMAIL=XXX@hotmail.com
+NCBI_API_KEY=XXXXXX
 
 ## Run
 python pubmed_search.py
