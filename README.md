@@ -4,7 +4,10 @@ Implement Python script to query PubMed
 ## GlyNAC ↔ Genomic Instability (PubMed Search)
 Python script that queries PubMed for **GlyNAC** and **genomic instability** papers and saves a CSV (PMID, title, authors, journal, DOI, abstract, year).
 
-## Install
+## Install(VS Code + venv)
+Windows (PowerShell)
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 pip install biopython pandas python-dotenv
 
 ## Setup
